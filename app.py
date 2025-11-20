@@ -13,7 +13,7 @@ print("Hello", name + "!")
 if age >= 18:
     print("You are an adult.")
 else:
-    print("You are a minor.")
+    print("You are a main.")
 
 # Loop example
 print("Counting from 1 to 5:")
