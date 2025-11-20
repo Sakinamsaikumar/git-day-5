@@ -7,7 +7,7 @@ name = input("saikumar: ")
 age = int(input("Enter your age: "))
 
 # Greet user
-print("Hello", name + "!")
+print("Hello", sai"!")
 
 # Check age
 if age >= 18:
