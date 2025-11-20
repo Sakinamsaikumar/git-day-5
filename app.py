@@ -1,7 +1,7 @@
 # Simple Python Program
 
 # Ask user for name
-name = input("dev-3")
+name = input("dev-2")
 
 # Ask user for age
 age = int(input("Enter your age: "))
